@@ -1,0 +1,32 @@
+public class Demo {
+   /**
+    * 
+    * @Title: main
+    * @Package com.hjw  
+    * @Description: TODO
+    * @param args
+    * @param s   
+    * @return void    返回类型
+    * @date 2017年6月27日
+    */
+	public static void main(String[] args,String s) {
+		int i = 1;
+		if (i > 1) {
+			System.out.println(1);
+		}
+		if (i > 1) {
+			System.out.println(1);
+		}
+	}
+	
+  public static void main1(String[] args,String s) {
+		int i = 1;
+		if (i > 1) {
+			System.out.println(1);
+		}
+		if (i > 1) {
+			System.out.println(1);
+		}
+	}
+
+}
